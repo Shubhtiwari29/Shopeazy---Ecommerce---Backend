@@ -26,8 +26,7 @@ The application offers robust functionality for managing products, orders, and u
 9) POST /api/orders - Create an order
 10) POST /api/payment - Simulate a payment (Razorpay Integration)   
 
-# Endpoints and response (example)
-
+# Endpoints and response (example)->
 # Update Cart Item
 URL: /api/cart_items/{cartItemId}
 Method: PUT
@@ -79,7 +78,6 @@ Responses:
 # Product Data:
 
 json
-Copy code
 {
   "id": 1,
   "name": "Sample Product",
@@ -90,7 +88,6 @@ Copy code
 # Order Data:
 
 json
-Copy code
 {
   "id": 101,
   "userId": 1,
