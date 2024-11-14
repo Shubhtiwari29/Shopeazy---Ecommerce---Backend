@@ -102,3 +102,6 @@ json
 3) Enhanced Admin Panel: Add more admin features like sales reports, customer management, etc.
 4) Testing: Add unit and integration tests using JUnit and Mockito for backend API testing.
 5) Dockerization: Containerize the application with Docker for easier deployment.
+
+# Repo Link of Shopeazy---Ecommerce---Frontend
+https://github.com/Shubhtiwari29/Shopeazy---Ecommerce---Frontend
