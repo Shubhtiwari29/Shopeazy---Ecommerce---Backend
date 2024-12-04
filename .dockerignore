@@ -1,0 +1,17 @@
+# Ignore Maven target directory
+target/
+
+# Ignore local environment files
+*.env
+*.log
+
+# Ignore node_modules in case frontend code is mixed
+node_modules/
+
+# Ignore IntelliJ/VSCode project files
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
