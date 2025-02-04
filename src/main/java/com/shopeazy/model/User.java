@@ -143,7 +143,6 @@ public class User {
 	public void setPaymentInformation(List<PaymentInformation> paymentInformation) {
 		this.paymentInformation = paymentInformation;
 	}
-
 	public List<Rating> getRatings() {
 		return ratings;
 	}
